@@ -1,0 +1,30 @@
+.loading-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  width: 100%;
+}
+
+.loader {
+  width: 45px;
+  aspect-ratio: 1;
+  --c: no-repeat linear-gradient(180deg, #0f172a, #111827);
+  background: var(--c) 0% 50%, var(--c) 50% 50%, var(--c) 100% 50%;
+  background-size: 20% 100%;
+  animation: l1 1s infinite linear;
+}
+
+@keyframes l1 {
+  0%  {background-size: 20% 100%,20% 100%,20% 100%}
+  33% {background-size: 20% 10% ,20% 100%,20% 100%}
+  66% {background-size: 20% 100%,20% 10% ,20% 100%}
+  100%{background-size: 20% 100%,20% 100%,20% 10% }
+}
+
+.loading-text {
+  margin-top: 15px;
+  color: #555;
+  font-weight: 500;
+}

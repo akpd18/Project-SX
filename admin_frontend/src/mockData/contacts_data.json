@@ -1,0 +1,68 @@
+[
+  {
+    "customId": "MSG-20250225-A1B2",
+    "name": "Nguyen Van A",
+    "email": "vana@gmail.com",
+    "subject": "Hỏi về Lamborghini Aventador",
+    "message": "Chào bạn, mình muốn hỏi chiếc Aventador 2024 còn hàng không? Mình muốn xem xe trực tiếp tại showroom vào cuối tuần này.",
+    "date": "2025-02-24 09:00",
+    "status": "Đã đọc",
+    "isImportant": false,
+    "isDeleted": false
+  },
+  {
+    "customId": "MSG-20250225-C3D4",
+    "name": "Tran Minh B",
+    "email": "minhb@gmail.com",
+    "subject": "Yêu cầu bảo dưỡng xe",
+    "message": "Tôi đã mua xe ở đây được 6 tháng, tôi muốn đặt lịch bảo dưỡng định kỳ.",
+    "date": "2025-02-23 14:30",
+    "status": "Đã đọc",
+    "isImportant": false,
+    "isDeleted": false
+  },
+  {
+    "customId": "MSG-20250225-E5F6",
+    "name": "Spam User",
+    "email": "spam@bot.com",
+    "subject": "Quảng cáo dịch vụ",
+    "message": "Dịch vụ tăng tương tác giá rẻ đây...",
+    "date": "2025-02-20 08:00",
+    "status": "Chưa đọc",
+    "isImportant": false,
+    "isDeleted": true
+  },
+  {
+    "customId": "MSG-20250225-G7H8",
+    "name": "Le Hoang C",
+    "email": "hoangc@gmail.com",
+    "subject": "Tư vấn mua Ferrari SF90 Stradale",
+    "message": "Chào showroom, tôi đang quan tâm đến Ferrari SF90 Stradale. Không biết xe hiện có sẵn bản màu đỏ không và giá lăn bánh khoảng bao nhiêu?",
+    "date": "2025-02-25 10:15",
+    "status": "Chưa đọc",
+    "isImportant": false,
+    "isDeleted": false
+  },
+  {
+    "customId": "MSG-20250225-I9J0",
+    "name": "Pham Gia D",
+    "email": "giad@gmail.com",
+    "subject": "Hỏi về Porsche 911 Turbo S",
+    "message": "Mình muốn biết Porsche 911 Turbo S có hỗ trợ trả góp không và thời gian giao xe dự kiến là bao lâu?",
+    "date": "2025-02-25 11:40",
+    "status": "Chưa đọc",
+    "isImportant": false,
+    "isDeleted": false
+  },
+  {
+    "customId": "MSG-20250225-K1L2",
+    "name": "Doan Thi E",
+    "email": "thie@gmail.com",
+    "subject": "Quan tâm đến Bugatti Chiron",
+    "message": "Xin chào, tôi muốn tìm hiểu thêm về Bugatti Chiron, đặc biệt là các phiên bản giới hạn hiện có tại showroom.",
+    "date": "2025-02-25 13:05",
+    "status": "Chưa đọc",
+    "isImportant": false,
+    "isDeleted": false
+  }
+]

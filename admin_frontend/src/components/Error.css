@@ -1,0 +1,12 @@
+.retry-btn {
+  border: none;
+  background: #d4d4d4;
+  padding: 10px 16px;
+  border-radius: 8px;
+  transition: 0.2s;
+  margin-top: 10px;
+}
+
+.retry-btn:hover {
+  transform: translateY(-2px);
+}
